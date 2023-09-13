@@ -5,3 +5,8 @@ This is a school project me and two of my friends did, it's an ego shooter with 
 
 Level 1-3 and 3-6 are different worlds and on higher number more zombies spawn.
 You can download the Unity project (version 2021.3.22f1)
+
+# How to play
+Until now I haven't found a way to upload the game and the Unity Project in GitHub and it's the simplest way to share them via Google Drive Link. "Build0507" is a playable version of the game and "InformatikProjekt03_07" the Unity project.
+
+https://drive.google.com/drive/folders/1sFS_uVDAjKRAY7JXd7sJ97WV4aHP48cT?usp=sharing
